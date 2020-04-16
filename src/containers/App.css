@@ -1,0 +1,12 @@
+@font-face {
+font-family: 'Galaxy Girl';
+font-style: normal;
+font-weight: normal;
+src: local('Galaxy Girl'), url('GalaxyGirl-2OO0K.ttf') format('ttf')
+}
+
+h1 {
+    font-family: 'Galaxy Girl';
+    font-weight: 200;
+    color: rgb(235, 219, 6);
+}
